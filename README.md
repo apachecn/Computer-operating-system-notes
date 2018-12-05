@@ -12,3 +12,12 @@
 
 - [ApacheCN 机器学习交流群 629470233](http://shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef)
 - [ApacheCN 学习资源](http://www.apachecn.org/)
+
+
+
+- [在线阅读](https://legacy.gitbook.com/book/wnma3mz/computer-operating-system-notes/details)
+- [PDF格式](https://legacy.gitbook.com/download/pdf/book/wnma3mz/computer-operating-system-notes)
+- [EPUB格式](https://legacy.gitbook.com/download/epub/book/wnma3mz/computer-operating-system-notes)
+- [MOBI格式](https://legacy.gitbook.com/download/mobi/book/wnma3mz/computer-operating-system-notes)
+- [代码仓库](https://github.com/apachecn/Computer-operating-system-notes)
+
